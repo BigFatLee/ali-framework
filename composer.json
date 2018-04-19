@@ -1,0 +1,14 @@
+{
+    "name": "bfl/ali-framework",
+    "description": "阿里云ap接口框架",
+    "type": "library",
+    "authors": [
+        {
+            "name": "BigFatLee",
+            "email": "lqh547424@gmail.com"
+        }
+    ],
+    "require": {
+        "php":">=5.6"
+    }
+}
